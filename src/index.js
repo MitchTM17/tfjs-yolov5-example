@@ -9,7 +9,7 @@ const weights = '/web_model/model.json';
 
 const names = ['reef',]
 
-const [modelWeight, modelHeight] = [1920, 1920];
+const [modelWeight, modelHeight] = [640,640];
 
 class App extends React.Component {
   state = {
